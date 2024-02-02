@@ -2090,11 +2090,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/eddiegiron/Documents/U/Virtualización/samples/orleans/HelloWorld/HelloWorld.csproj",
+      "projectUniqueName": "/Users/eddiegiron/Documents/U/Virtualización/HelloWorldGrainRep/HelloWorld/HelloWorld.csproj",
       "projectName": "HelloWorld",
-      "projectPath": "/Users/eddiegiron/Documents/U/Virtualización/samples/orleans/HelloWorld/HelloWorld.csproj",
+      "projectPath": "/Users/eddiegiron/Documents/U/Virtualización/HelloWorldGrainRep/HelloWorld/HelloWorld.csproj",
       "packagesPath": "/Users/eddiegiron/.nuget/packages/",
-      "outputPath": "/Users/eddiegiron/Documents/U/Virtualización/samples/orleans/HelloWorld/obj/",
+      "outputPath": "/Users/eddiegiron/Documents/U/Virtualización/HelloWorldGrainRep/HelloWorld/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/eddiegiron/.nuget/NuGet/NuGet.Config"

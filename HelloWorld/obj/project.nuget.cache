@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nBRjyoOJeMyH8I8O4d3/xfGvJhkAIIytlrJ9gvlm3rQ5y5CYuCzpVy21pTrY3/JWsaSQBwS6bAuY5lh+T6cLiA==",
+  "dgSpecHash": "wcBWxuYM3mjNdlrH3QPPPEJk+/e1cW7xZrGzvFpkzFknhyKs1B0W/oiHhG9SQZb+kWw0Ua4tdIziH8fsbJIITQ==",
   "success": true,
-  "projectFilePath": "/Users/eddiegiron/Documents/U/Virtualización/samples/orleans/HelloWorld/HelloWorld.csproj",
+  "projectFilePath": "/Users/eddiegiron/Documents/U/Virtualización/HelloWorldGrainRep/HelloWorld/HelloWorld.csproj",
   "expectedPackageFiles": [
     "/Users/eddiegiron/.nuget/packages/microsoft.aspnetcore.connections.abstractions/7.0.0/microsoft.aspnetcore.connections.abstractions.7.0.0.nupkg.sha512",
     "/Users/eddiegiron/.nuget/packages/microsoft.extensions.configuration/7.0.0/microsoft.extensions.configuration.7.0.0.nupkg.sha512",

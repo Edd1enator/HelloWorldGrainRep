@@ -17,10 +17,13 @@ var grainFactory = host.Services.GetRequiredService<IGrainFactory>();
 var friend = grainFactory.GetGrain<IHelloGrain>("friend");
 
 // Call the grain and print the result to the console
-var result = await friend.SayHello("Good morning!");
+var result = await friend.SayHello("Buenos días!");
+var resultnum = await friend.GiveNum(10);
+
 Console.WriteLine($"""
 
     {result}
+    {resultnum}
 
     """);
 
